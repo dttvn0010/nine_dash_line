@@ -1,0 +1,6 @@
+Class ok accuracy: 969/1000 (96.9%)
+Class error accuracy: 914/1000 (91.4%)
+Acc maxtrix:
+[[969  31]
+ [ 86 914]]
+Average accuracy: 1883/2000 (94.15%)
